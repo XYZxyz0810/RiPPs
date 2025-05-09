@@ -1,6 +1,6 @@
 import argparse
 from Prodigal import run_prodigal # 从 Prodigal.py 中导入需要的函数
-from Efetch import run_fetch_nucl  # 从 Efetch2.py 导入 run_fetch_data 函数
+from Efetch_cblaster import run_fetch_nucl  # 从 Efetch2.py 导入 run_fetch_data 函数
 from Hmmscan import run_hmmscan, process_hmmscan_output  # 假设 Hmmscan.py 中有 run_hmmscan_on_faa 函数
 from Record_generate import process_prodigal_faa_output, comb_CDS_and_hmmscan_files, generate_cluster_prediction_tables, generate_precursor_fasta  # 假设 Record.py 中有 process_files 函数
 from MMseqs import run_mmseqs2, parse_mmseqs_clusters, makelogo
@@ -10,14 +10,13 @@ def parse_arguments():
     创建命令行解析器
     """
     parser = argparse.ArgumentParser(description="Run the bioinformatics pipeline.")
-    # 添加命令行参数
-    parser.add_argument("-a", "--accession_file", required=True, help="Input file containing accession numbers")
+    parser.add_argument("-a", "--accession_file", help="Input file containing accession numbers")
     parser.add_argument("-u", "--updown_length", type=int, required=True, help="Upstream and downstream DNA length")
     parser.add_argument("pre_min", type=int, help="Minimal length of short peptide (integer).")
     parser.add_argument("pre_max", type=int, help="Maximal length of short peptide (integer).")
     parser.add_argument("out_dir", type=str, help="Output directory for results.")
-    parser.add_argument("--skip_fetch", action="store_true",help="If set, skip fetching data and use existing Nuclfile.")
-    parser.add_argument("--nucl_file", type=str, help="Path to the pre-existing Nuclfile if --skip_fetch is used.")
+    parser.add_argument("--nucl_file", type=str, help="Path to an existing nucleotide file.")
+    parser.add_argument("--cblaster_file", type=str, help="Binary result file from cblaster.")
     return parser.parse_args()
 
 
@@ -27,18 +26,24 @@ def main():
     out_dir = args.out_dir  # 获取输出目录
 
     # 第一部分：获取核酸记录（使用 Efetch 获取数据）
-    if not args.skip_fetch:
-        print("Fetching data using Efetch...")
-        accession_name = args.accession_file  # 获取输入文件名
-        UDlength = args.updown_length  # 获取上下游长度
-        Nuclfile = run_fetch_nucl(accession_name, UDlength)  # 获取生成的核酸文件路径
-        print(f"Finished fetching data. Data saved to {Nuclfile}")
-    else:
-        # 如果跳过数据获取，则使用用户提供的 Nuclfile 路径
-        if not args.nucl_file:
-            raise ValueError("Nuclfile path must be provided when skipping fetch.")
+    print("Running Nucl_Efetch...")
+    if args.nucl_file:
         Nuclfile = args.nucl_file
-        print(f"Skipping data fetch. Using existing Nuclfile: {Nuclfile}")
+        print(f"Using provided nucleotide file: {Nuclfile}")
+    elif args.accession_file:
+        print("Fetching data using accession file...")
+        input_file = args.accession_file
+        UDlength = args.updown_length
+        Nuclfile = run_fetch_nucl(input_file, UDlength)
+        print(f"Finished fetching data from accession. Data saved to {Nuclfile}")
+    elif args.cblaster_file:
+        print("Fetching data using cblaster binary result...")
+        input_file = args.cblaster_file
+        UDlength = args.updown_length
+        Nuclfile = run_fetch_nucl(input_file, UDlength)
+        print(f"Finished fetching data from cblaster result. Data saved to {Nuclfile}")
+    else:
+        raise ValueError("One of --nucl_file, --accession_file (-a), or --cblaster_file must be provided.")
 
     # 第二部分：处理核酸记录，生成faa文件和gbk文件（运行 Prodigal 预测 ORFs）
     print("Running Prodigal...")
@@ -78,5 +83,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-#python3 Main.py -a GT2_LanM_28.tsv -u 20000 20 150 GT2_LanM_28_out_dir
+#python3 Main_cblaster.py -a GT2_LanM_28.tsv -u 20000 20 150 GT2_LanM_28_out_dir
 #python3 Main.py -a 1.txt -u 10000 20 150 out_dir --skip_fetch --nucl_file GT2_LanC_10kb_nucl.fasta
