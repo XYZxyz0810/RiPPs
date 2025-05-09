@@ -1,0 +1,186 @@
+accession	Pfam/Hmm	name	description	E-value
+NZ_JBEYAJ010000004.1_4	PF01243	Putative_PNPOx	Pyridoxamine 5'-phosphate oxidase	3.5e-14
+NZ_JBEYAJ010000004.1_5	PF07724	AAA_2	AAA domain (Cdc48 subfamily)	5.6e-70
+NZ_JBEYAJ010000004.1_5	PF17871	AAA_lid_9	AAA lid domain	3.3e-34
+NZ_JBEYAJ010000004.1_5	PF10431	ClpB_D2-small	C-terminal, D2-small domain, of ClpB protein	7.1e-30
+NZ_JBEYAJ010000004.1_5	PF00004	AAA	ATPase family associated with various cellular activities (AAA)	1e-19
+NZ_JBEYAJ010000004.1_5	PF07728	AAA_5	AAA domain (dynein-related subfamily)	9.8e-18
+NZ_JBEYAJ010000004.1_5	PF02861	Clp_N	Clp amino terminal domain, pathogenicity island component	1.4e-16
+NZ_JBEYAJ010000004.1_5	PF13401	AAA_22	AAA domain	3.8e-11
+NZ_JBEYAJ010000004.1_5	PF13191	AAA_16	AAA ATPase domain	1.3e-09
+NZ_JBEYAJ010000004.1_5	PF00158	Sigma54_activat	Sigma-54 interaction domain	7e-09
+NZ_JBEYAJ010000004.1_5	PF01637	ATPase_2	ATPase domain predominantly from Archaea	1e-06
+NZ_JBEYAJ010000004.1_5	PF20720	nSTAND3	Novel STAND NTPase 3	3.5e-06
+NZ_JBEYAJ010000004.1_6	PF10722	YbjN	Putative bacterial sensory transduction regulator	1.5e-17
+NZ_JBEYAJ010000004.1_7	PF00877	NLPC_P60	NlpC/P60 family	7e-17
+NZ_JBEYAJ010000004.1_8	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	4.4e-22
+NZ_JBEYAJ010000004.1_8	PF00675	Peptidase_M16	Insulinase (Peptidase family M16)	1.1e-17
+NZ_JBEYAJ010000004.1_10	PF02441	Flavoprotein	Flavoprotein	4.7e-13
+NZ_JBEYAJ010000004.1_11	PF00296	Bac_luciferase	Luciferase-like monooxygenase	1e-29
+NZ_JBEYAJ010000004.1_15	PF17914	HopA1	HopA1 effector protein family	4.2e-44
+NZ_JBEYAJ010000004.1_19	PF00664	ABC_membrane	ABC transporter transmembrane region	1e-31
+NZ_JBEYAJ010000004.1_19	PF00005	ABC_tran	ABC transporter	8.4e-30
+NZ_JBEYAJ010000004.1_19	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	5.1e-08
+NZ_JBEYAJ010000004.1_19	PF13304	AAA_21	AAA domain, putative AbiEii toxin, Type IV TA system	2e-06
+NZ_JBEYAJ010000004.1_23	PF13601	HTH_34	Winged helix DNA-binding domain	7.4e-21
+NZ_JBEYAJ010000004.1_27	PF17914	HopA1	HopA1 effector protein family	1e-46
+NZ_JBEYAJ010000004.1_28	PF01636	APH	Phosphotransferase enzyme family	3.6e-13
+NZ_JBEYAJ010000004.1_29	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	3.4e-19
+NZ_JBEYAJ010000004.1_29	PF00675	Peptidase_M16	Insulinase (Peptidase family M16)	2.7e-17
+NZ_JBEYAJ010000004.1_30	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	2.8e-20
+NZ_JBEYAJ010000004.1_32	PF02441	Flavoprotein	Flavoprotein	7.6e-17
+NZ_JBEYAJ010000004.1_33	PF00296	Bac_luciferase	Luciferase-like monooxygenase	1.2e-28
+NZ_JBEYAJ010000004.1_34	PF01061	ABC2_membrane	ABC-2 type transporter	2.3e-21
+NZ_JBEYAJ010000004.1_34	PF12698	ABC2_membrane_3	ABC-2 family transporter protein	5.3e-20
+NZ_JBEYAJ010000004.1_35	PF00005	ABC_tran	ABC transporter	2.6e-26
+NZ_JBEYAJ010000004.1_35	PF13304	AAA_21	AAA domain, putative AbiEii toxin, Type IV TA system	2.2e-13
+NZ_JBEYAJ010000004.1_36	PF00155	Aminotran_1_2	Aminotransferase class I and II	1.1e-68
+NZ_JBEYAJ010000004.1_36	PF00266	Aminotran_5	Aminotransferase class-V	8.4e-10
+NZ_JBEYAJ010000004.1_36	PF01053	Cys_Met_Meta_PP	Cys/Met metabolism PLP-dependent enzyme	6e-07
+NZ_JBEYAJ010000004.1_37	PF14498	Glyco_hyd_65N_2	Glycosyl hydrolase family 65, N-terminal domain	1.7e-34
+NZ_JBEYAJ010000004.1_37	PF21307	Glyco_hydro_95_C	Glycoside hydrolase family 95, C-terminal domain	7e-11
+NZ_JBEYAJ010000004.1_38	PF10936	DUF2617	Protein of unknown function DUF2617	2.3e-61
+NZ_JBEYAJ010000004.1_39	PF01564	Spermine_synth	Spermine/spermidine synthase domain	4e-27
+KP823601.1_1	PF13407	Peripla_BP_4	Periplasmic binding protein domain	2.5e-39
+KP823601.1_2	PF00296	Bac_luciferase	Luciferase-like monooxygenase	5.1e-28
+KP823601.1_3	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	6.9e-20
+KP823601.1_4	PF00675	Peptidase_M16	Insulinase (Peptidase family M16)	2.8e-14
+KP823601.1_4	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	1.1e-10
+KP823601.1_5	PF13649	Methyltransf_25	Methyltransferase domain	4.6e-16
+KP823601.1_5	PF13489	Methyltransf_23	Methyltransferase domain	2.5e-14
+KP823601.1_5	PF08241	Methyltransf_11	Methyltransferase domain	1.9e-11
+KP823601.1_5	PF08242	Methyltransf_12	Methyltransferase domain	9.6e-11
+KP823601.1_5	PF13847	Methyltransf_31	Methyltransferase domain	8.1e-07
+KP823601.1_6	PF17914	HopA1	HopA1 effector protein family	2e-38
+KP823601.1_9	PF02441	Flavoprotein	Flavoprotein	1.1e-13
+KP823601.1_11	PF00664	ABC_membrane	ABC transporter transmembrane region	1.1e-33
+KP823601.1_11	PF00005	ABC_tran	ABC transporter	3.3e-31
+KP823601.1_11	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	5e-08
+KP823601.1_11	PF13191	AAA_16	AAA ATPase domain	2.9e-07
+KP823601.1_11	PF13401	AAA_22	AAA domain	9.8e-07
+KP823601.1_13	PF00196	GerE	Bacterial regulatory proteins, luxR family	3.7e-16
+KP823601.1_17	PF13411	MerR_1	MerR HTH family regulatory protein	4.3e-17
+KP823601.1_17	PF00376	MerR	MerR family regulatory protein	9.7e-12
+KP823601.1_17	PF13591	MerR_2	MerR HTH family regulatory protein	1.1e-06
+KP823601.1_18	PF01556	DnaJ_C	DnaJ C terminal domain	5.7e-47
+KP823601.1_18	PF00226	DnaJ	DnaJ domain	5.3e-27
+KP823601.1_18	PF00684	DnaJ_CXXCXGXG	DnaJ central domain	8.6e-12
+KP823601.1_19	PF01025	GrpE	GrpE	1.4e-36
+KP823601.1_20	PF00012	HSP70	Hsp70 protein	1.1e-254
+KP823601.1_20	PF06723	MreB_Mbl	MreB/Mbl protein	5.3e-18
+NZ_JAANNZ010000009.1_2	PF00012	HSP70	Hsp70 protein	1.1e-254
+NZ_JAANNZ010000009.1_2	PF06723	MreB_Mbl	MreB/Mbl protein	5.3e-18
+NZ_JAANNZ010000009.1_3	PF01025	GrpE	GrpE	1.4e-36
+NZ_JAANNZ010000009.1_4	PF01556	DnaJ_C	DnaJ C terminal domain	5.7e-47
+NZ_JAANNZ010000009.1_4	PF00226	DnaJ	DnaJ domain	5.3e-27
+NZ_JAANNZ010000009.1_4	PF00684	DnaJ_CXXCXGXG	DnaJ central domain	8.6e-12
+NZ_JAANNZ010000009.1_5	PF13411	MerR_1	MerR HTH family regulatory protein	4.3e-17
+NZ_JAANNZ010000009.1_5	PF00376	MerR	MerR family regulatory protein	9.7e-12
+NZ_JAANNZ010000009.1_5	PF13591	MerR_2	MerR HTH family regulatory protein	1.1e-06
+NZ_JAANNZ010000009.1_9	PF00196	GerE	Bacterial regulatory proteins, luxR family	3.7e-16
+NZ_JAANNZ010000009.1_11	PF00664	ABC_membrane	ABC transporter transmembrane region	1.1e-33
+NZ_JAANNZ010000009.1_11	PF00005	ABC_tran	ABC transporter	3.3e-31
+NZ_JAANNZ010000009.1_11	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	5e-08
+NZ_JAANNZ010000009.1_11	PF13191	AAA_16	AAA ATPase domain	2.9e-07
+NZ_JAANNZ010000009.1_11	PF13401	AAA_22	AAA domain	9.8e-07
+NZ_JAANNZ010000009.1_13	PF02441	Flavoprotein	Flavoprotein	1.1e-13
+NZ_JAANNZ010000009.1_16	PF17914	HopA1	HopA1 effector protein family	2e-38
+NZ_JAANNZ010000009.1_17	PF13649	Methyltransf_25	Methyltransferase domain	4.6e-16
+NZ_JAANNZ010000009.1_17	PF13489	Methyltransf_23	Methyltransferase domain	2.5e-14
+NZ_JAANNZ010000009.1_17	PF08241	Methyltransf_11	Methyltransferase domain	1.9e-11
+NZ_JAANNZ010000009.1_17	PF08242	Methyltransf_12	Methyltransferase domain	9.6e-11
+NZ_JAANNZ010000009.1_17	PF13847	Methyltransf_31	Methyltransferase domain	8.1e-07
+NZ_JAANNZ010000009.1_18	PF00675	Peptidase_M16	Insulinase (Peptidase family M16)	2.8e-14
+NZ_JAANNZ010000009.1_18	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	1.1e-10
+NZ_JAANNZ010000009.1_19	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	6.5e-20
+NZ_JAANNZ010000009.1_20	PF00296	Bac_luciferase	Luciferase-like monooxygenase	5.4e-28
+NZ_JAANNZ010000009.1_21	PF13407	Peripla_BP_4	Periplasmic binding protein domain	1.1e-67
+NZ_JAANNZ010000009.1_22	PF00196	GerE	Bacterial regulatory proteins, luxR family	2.5e-09
+NZ_JAANNZ010000009.1_23	PF00196	GerE	Bacterial regulatory proteins, luxR family	5.9e-06
+NZ_JBHVKV010000007.1_4	PF00196	GerE	Bacterial regulatory proteins, luxR family	5.6e-06
+NZ_JBHVKV010000007.1_5	PF00196	GerE	Bacterial regulatory proteins, luxR family	2.5e-09
+NZ_JBHVKV010000007.1_6	PF13407	Peripla_BP_4	Periplasmic binding protein domain	1.1e-67
+NZ_JBHVKV010000007.1_7	PF00296	Bac_luciferase	Luciferase-like monooxygenase	5.1e-29
+NZ_JBHVKV010000007.1_8	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	1.7e-19
+NZ_JBHVKV010000007.1_9	PF00675	Peptidase_M16	Insulinase (Peptidase family M16)	2.8e-14
+NZ_JBHVKV010000007.1_9	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	1.1e-10
+NZ_JBHVKV010000007.1_10	PF13649	Methyltransf_25	Methyltransferase domain	4.6e-16
+NZ_JBHVKV010000007.1_10	PF13489	Methyltransf_23	Methyltransferase domain	2.5e-14
+NZ_JBHVKV010000007.1_10	PF08241	Methyltransf_11	Methyltransferase domain	1.9e-11
+NZ_JBHVKV010000007.1_10	PF08242	Methyltransf_12	Methyltransferase domain	9.6e-11
+NZ_JBHVKV010000007.1_10	PF13847	Methyltransf_31	Methyltransferase domain	8.1e-07
+NZ_JBHVKV010000007.1_11	PF17914	HopA1	HopA1 effector protein family	2e-38
+NZ_JBHVKV010000007.1_14	PF02441	Flavoprotein	Flavoprotein	1.1e-13
+NZ_JBHVKV010000007.1_16	PF00664	ABC_membrane	ABC transporter transmembrane region	1.1e-33
+NZ_JBHVKV010000007.1_16	PF00005	ABC_tran	ABC transporter	3.3e-31
+NZ_JBHVKV010000007.1_16	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	5e-08
+NZ_JBHVKV010000007.1_16	PF13191	AAA_16	AAA ATPase domain	2.9e-07
+NZ_JBHVKV010000007.1_16	PF13401	AAA_22	AAA domain	9.8e-07
+NZ_JBHVKV010000007.1_18	PF00196	GerE	Bacterial regulatory proteins, luxR family	3.7e-16
+NZ_JBHVKV010000007.1_22	PF13411	MerR_1	MerR HTH family regulatory protein	4.3e-17
+NZ_JBHVKV010000007.1_22	PF00376	MerR	MerR family regulatory protein	9.7e-12
+NZ_JBHVKV010000007.1_22	PF13591	MerR_2	MerR HTH family regulatory protein	1.1e-06
+NZ_JBHVKV010000007.1_23	PF01556	DnaJ_C	DnaJ C terminal domain	5.7e-47
+NZ_JBHVKV010000007.1_23	PF00226	DnaJ	DnaJ domain	5.3e-27
+NZ_JBHVKV010000007.1_23	PF00684	DnaJ_CXXCXGXG	DnaJ central domain	8.6e-12
+NZ_JBHVKV010000007.1_24	PF01025	GrpE	GrpE	8.2e-37
+NZ_JBHVKV010000007.1_25	PF00012	HSP70	Hsp70 protein	1.1e-254
+NZ_JBHVKV010000007.1_25	PF06723	MreB_Mbl	MreB/Mbl protein	5.3e-18
+NZ_JAGPYI010000017.1_4	PF00196	GerE	Bacterial regulatory proteins, luxR family	5.6e-06
+NZ_JAGPYI010000017.1_5	PF00196	GerE	Bacterial regulatory proteins, luxR family	2.6e-09
+NZ_JAGPYI010000017.1_6	PF13407	Peripla_BP_4	Periplasmic binding protein domain	9.7e-68
+NZ_JAGPYI010000017.1_7	PF00296	Bac_luciferase	Luciferase-like monooxygenase	5.4e-28
+NZ_JAGPYI010000017.1_8	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	6e-20
+NZ_JAGPYI010000017.1_9	PF00675	Peptidase_M16	Insulinase (Peptidase family M16)	3.2e-14
+NZ_JAGPYI010000017.1_9	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	2e-10
+NZ_JAGPYI010000017.1_10	PF13649	Methyltransf_25	Methyltransferase domain	4.7e-16
+NZ_JAGPYI010000017.1_10	PF13489	Methyltransf_23	Methyltransferase domain	1.1e-14
+NZ_JAGPYI010000017.1_10	PF08241	Methyltransf_11	Methyltransferase domain	2e-11
+NZ_JAGPYI010000017.1_10	PF08242	Methyltransf_12	Methyltransferase domain	9.8e-11
+NZ_JAGPYI010000017.1_10	PF13847	Methyltransf_31	Methyltransferase domain	5.3e-07
+NZ_JAGPYI010000017.1_11	PF17914	HopA1	HopA1 effector protein family	2.2e-38
+NZ_JAGPYI010000017.1_14	PF02441	Flavoprotein	Flavoprotein	1.1e-13
+NZ_JAGPYI010000017.1_16	PF00664	ABC_membrane	ABC transporter transmembrane region	1.6e-33
+NZ_JAGPYI010000017.1_16	PF00005	ABC_tran	ABC transporter	3.5e-31
+NZ_JAGPYI010000017.1_16	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	6e-08
+NZ_JAGPYI010000017.1_16	PF13191	AAA_16	AAA ATPase domain	3.3e-07
+NZ_JAGPYI010000017.1_16	PF13401	AAA_22	AAA domain	9.4e-07
+NZ_JAGPYI010000017.1_18	PF00196	GerE	Bacterial regulatory proteins, luxR family	3.7e-16
+NZ_JAGPYI010000017.1_22	PF13411	MerR_1	MerR HTH family regulatory protein	4.3e-17
+NZ_JAGPYI010000017.1_22	PF00376	MerR	MerR family regulatory protein	9.7e-12
+NZ_JAGPYI010000017.1_22	PF13591	MerR_2	MerR HTH family regulatory protein	1.1e-06
+NZ_JAGPYI010000017.1_23	PF01556	DnaJ_C	DnaJ C terminal domain	5.7e-47
+NZ_JAGPYI010000017.1_23	PF00226	DnaJ	DnaJ domain	5.3e-27
+NZ_JAGPYI010000017.1_23	PF00684	DnaJ_CXXCXGXG	DnaJ central domain	8.6e-12
+NZ_JAGPYI010000017.1_24	PF01025	GrpE	GrpE	8.2e-37
+NZ_JAGPYI010000017.1_25	PF00012	HSP70	Hsp70 protein	1.1e-254
+NZ_JAGPYI010000017.1_25	PF06723	MreB_Mbl	MreB/Mbl protein	5.3e-18
+NZ_JBIENY010000216.1_2	PF00012	HSP70	Hsp70 protein	1.1e-254
+NZ_JBIENY010000216.1_2	PF06723	MreB_Mbl	MreB/Mbl protein	5.3e-18
+NZ_JBIENY010000216.1_3	PF01025	GrpE	GrpE	8.5e-37
+NZ_JBIENY010000216.1_4	PF01556	DnaJ_C	DnaJ C terminal domain	5.7e-47
+NZ_JBIENY010000216.1_4	PF00226	DnaJ	DnaJ domain	5.3e-27
+NZ_JBIENY010000216.1_4	PF00684	DnaJ_CXXCXGXG	DnaJ central domain	8.6e-12
+NZ_JBIENY010000216.1_5	PF13411	MerR_1	MerR HTH family regulatory protein	4.3e-17
+NZ_JBIENY010000216.1_5	PF00376	MerR	MerR family regulatory protein	9.7e-12
+NZ_JBIENY010000216.1_5	PF13591	MerR_2	MerR HTH family regulatory protein	1.1e-06
+NZ_JBIENY010000216.1_9	PF00196	GerE	Bacterial regulatory proteins, luxR family	3.7e-16
+NZ_JBIENY010000216.1_11	PF00664	ABC_membrane	ABC transporter transmembrane region	1.6e-33
+NZ_JBIENY010000216.1_11	PF00005	ABC_tran	ABC transporter	3.3e-31
+NZ_JBIENY010000216.1_11	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	5e-08
+NZ_JBIENY010000216.1_11	PF13191	AAA_16	AAA ATPase domain	2.9e-07
+NZ_JBIENY010000216.1_11	PF13401	AAA_22	AAA domain	9.8e-07
+NZ_JBIENY010000216.1_13	PF02441	Flavoprotein	Flavoprotein	8.1e-14
+NZ_JBIENY010000216.1_16	PF17914	HopA1	HopA1 effector protein family	2e-38
+NZ_JBIENY010000216.1_17	PF13649	Methyltransf_25	Methyltransferase domain	4.6e-16
+NZ_JBIENY010000216.1_17	PF13489	Methyltransf_23	Methyltransferase domain	9.1e-15
+NZ_JBIENY010000216.1_17	PF08241	Methyltransf_11	Methyltransferase domain	1.9e-11
+NZ_JBIENY010000216.1_17	PF08242	Methyltransf_12	Methyltransferase domain	9.4e-11
+NZ_JBIENY010000216.1_17	PF13847	Methyltransf_31	Methyltransferase domain	2.2e-07
+NZ_JBIENY010000216.1_18	PF00675	Peptidase_M16	Insulinase (Peptidase family M16)	2.9e-14
+NZ_JBIENY010000216.1_18	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	2.2e-10
+NZ_JBIENY010000216.1_19	PF05193	Peptidase_M16_C	Peptidase M16 inactive domain	6.6e-20
+NZ_JBIENY010000216.1_20	PF00296	Bac_luciferase	Luciferase-like monooxygenase	3.5e-29
+NZ_JBIENY010000216.1_21	PF13407	Peripla_BP_4	Periplasmic binding protein domain	1.1e-67
+NZ_JBIENY010000216.1_22	PF00196	GerE	Bacterial regulatory proteins, luxR family	2.5e-09
+NZ_JBIENY010000216.1_23	PF00196	GerE	Bacterial regulatory proteins, luxR family	5.6e-06

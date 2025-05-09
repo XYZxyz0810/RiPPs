@@ -1,0 +1,28 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+120589330	INSDC	KV791941.1	94882	95847	+	OFV10471.1	hypothetical protein	Sphingobacterium sp. HMSC13C05	HMSC13C05	GCA_001808025.1
+120589330	INSDC	LUAH01000110.1	12202	13167	+	OFV10471.1	hypothetical protein	Sphingobacterium sp. HMSC13C05	HMSC13C05	GCA_001808025.1
+120589330	RefSeq	NZ_DALYQD010000019.1	100099	101064	-	WP_070569063.1	glycosyltransferase family 2 protein	Sphingobacterium multivorum		GCF_031977475.1
+120589330	RefSeq	NZ_DAMDKX010000026.1	456	1421	-	WP_070569063.1	glycosyltransferase family 2 protein	Sphingobacterium multivorum		GCF_032085355.1
+120589330	RefSeq	NZ_DCZA01000015.1	22272	23237	+	WP_070569063.1	glycosyltransferase family 2 protein	Sphingobacterium sp. UBA2096		GCF_002331225.1
+120589330	RefSeq	NZ_DDKA01000035.1	423	1388	-	WP_070569063.1	glycosyltransferase family 2 protein	Sphingobacterium sp. UBA2610		GCF_002339225.1
+120589330	RefSeq	NZ_DJBI01000049.1	22793	23758	+	WP_070569063.1	glycosyltransferase family 2 protein	Sphingobacterium sp. UBA5980		GCF_002429985.1
+120589330	RefSeq	NZ_KV791941.1	94882	95847	+	WP_070569063.1	glycosyltransferase family 2 protein	Sphingobacterium sp. HMSC13C05	HMSC13C05	GCF_001808025.1
+120589330	RefSeq	NZ_DALYQD010000019.1	100099	101064	-	WP_070569063.1	glycosyltransferase family 2 protein	Sphingobacterium multivorum		GCF_031977475.1
+120589330	RefSeq	NZ_DAMDKX010000026.1	456	1421	-	WP_070569063.1	glycosyltransferase family 2 protein	Sphingobacterium multivorum		GCF_032085355.1
+120589330	RefSeq	NZ_DCZA01000015.1	22272	23237	+	WP_070569063.1	glycosyltransferase family 2 protein	Sphingobacterium sp. UBA2096		GCF_002331225.1
+120589330	RefSeq	NZ_DDKA01000035.1	423	1388	-	WP_070569063.1	glycosyltransferase family 2 protein	Sphingobacterium sp. UBA2610		GCF_002339225.1
+120589330	RefSeq	NZ_DJBI01000049.1	22793	23758	+	WP_070569063.1	glycosyltransferase family 2 protein	Sphingobacterium sp. UBA5980		GCF_002429985.1
+120589330	RefSeq	NZ_KV791941.1	94882	95847	+	WP_070569063.1	glycosyltransferase family 2 protein	Sphingobacterium sp. HMSC13C05	HMSC13C05	GCF_001808025.1
+120589330	INSDC	KV791941.1	94882	95847	+	OFV10471.1	hypothetical protein	Sphingobacterium sp. HMSC13C05	HMSC13C05	GCA_001808025.1
+120589330	INSDC	LUAH01000110.1	12202	13167	+	OFV10471.1	hypothetical protein	Sphingobacterium sp. HMSC13C05	HMSC13C05	GCA_001808025.1
+123591562	INSDC	FNCH01000025.1	13714	14640	-	SDH45420.1	Glycosyltransferase involved in cell wall bisynthesis	Pedobacter terrae	DSM 17933	GCA_900100705.1
+168581860	INSDC	CP024091.1	563701	564552	+	ATP55373.1	hypothetical protein	Pedobacter ginsengisoli	T01R-27	GCA_002736205.1
+168581860	RefSeq	NZ_CP024091.1	563701	564552	+	WP_099437326.1	glycosyltransferase family 2 protein	Pedobacter ginsengisoli	T01R-27	GCF_002736205.1
+168581860	RefSeq	NZ_CP024091.1	563701	564552	+	WP_099437326.1	glycosyltransferase family 2 protein	Pedobacter ginsengisoli	T01R-27	GCF_002736205.1
+168581860	INSDC	CP024091.1	563701	564552	+	ATP55373.1	hypothetical protein	Pedobacter ginsengisoli	T01R-27	GCA_002736205.1
+184204473	INSDC	KZ686268.1	859008	859931	-	PST83892.1	hypothetical protein	Pedobacter yulinensis	YL28-9	GCA_003029735.1
+184204473	INSDC	PYLS01000004.1	3240	4163	-	PST83892.1	hypothetical protein	Pedobacter yulinensis	YL28-9	GCA_003029735.1
+184204473	RefSeq	NZ_KZ686268.1	859008	859931	-	WP_107213801.1	glycosyltransferase family 2 protein	Pedobacter yulinensis	YL28-9	GCF_003029735.1
+184204473	RefSeq	NZ_KZ686268.1	859008	859931	-	WP_107213801.1	glycosyltransferase family 2 protein	Pedobacter yulinensis	YL28-9	GCF_003029735.1
+184204473	INSDC	KZ686268.1	859008	859931	-	PST83892.1	hypothetical protein	Pedobacter yulinensis	YL28-9	GCA_003029735.1
+184204473	INSDC	PYLS01000004.1	3240	4163	-	PST83892.1	hypothetical protein	Pedobacter yulinensis	YL28-9	GCA_003029735.1

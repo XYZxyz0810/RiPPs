@@ -1,0 +1,376 @@
+accession	start	end	direction	length	Pfam/Hmm	name	description	E-value
+OFV10471.1_1	3	230	1	76	none	none	none	none
+OFV10471.1_2	259	999	-1	247	PF04572	Gb3_synth	Alpha 1,4-glycosyltransferase conserved region	1.8e-07
+OFV10471.1_2	259	999	-1	247	PF04488	Gly_transf_sug	Glycosyltransferase sugar-binding region containing DXD motif	7.2e-07
+OFV10471.1_3	1211	1507	1	99	none	none	none	none
+OFV10471.1_4	1614	2702	1	363	PF13905	Thioredoxin_8	Thioredoxin-like	1.4e-13
+OFV10471.1_4	1614	2702	1	363	PF00085	Thioredoxin	Thioredoxin	8.7e-08
+OFV10471.1_4	1614	2702	1	363	PF14289	DUF4369	Domain of unknown function (DUF4369)	2.7e-06
+OFV10471.1_5	2747	3385	1	213	PF01755	Glyco_transf_25	Glycosyltransferase family 25 (LPS biosynthesis protein)	8.8e-07
+OFV10471.1_6	3391	3975	1	195	none	none	none	none
+OFV10471.1_7	4234	4866	-1	211	PF04488	Gly_transf_sug	Glycosyltransferase sugar-binding region containing DXD motif	1.2e-09
+OFV10471.1_8	5068	7647	-1	860	PF11028	DUF2723	Protein of unknown function (DUF2723)	3.2e-23
+OFV10471.1_9	7776	8111	-1	112	PF11028	DUF2723	Protein of unknown function (DUF2723)	8.3e-27
+OFV10471.1_10	8173	9267	-1	365	none	none	none	none
+OFV10471.1_11	9274	10839	-1	522	PF02709	Glyco_transf_7C	N-terminal domain of galactosyltransferase	6e-07
+OFV10471.1_12	10880	11827	-1	316	none	none	none	none
+OFV10471.1_13	11929	12120	-1	64	none	none	none	none
+OFV10471.1_14	12160	13338	-1	393	PF05147	LANC_like	Lanthionine synthetase C-like protein	5.8e-23
+OFV10471.1_15	13442	16141	1	900	PF14028	Lant_dehydr_C	Lantibiotic biosynthesis dehydratase C-term	4.6e-28
+OFV10471.1_15	13442	16141	1	900	PF04738	Lant_dehydr_N	Lantibiotic dehydratase, N terminus	9.9e-28
+OFV10471.1_16	16450	18636	1	729	PF03412	Peptidase_C39	Peptidase C39 family	1.1e-36
+OFV10471.1_16	16450	18636	1	729	PF00664	ABC_membrane	ABC transporter transmembrane region	3.7e-27
+OFV10471.1_16	16450	18636	1	729	PF00005	ABC_tran	ABC transporter	4.3e-27
+OFV10471.1_16	16450	18636	1	729	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	1.2e-07
+OFV10471.1_17	18640	19917	1	426	PF13437	HlyD_3	HlyD family secretion protein	2.4e-11
+OFV10471.1_17	18640	19917	1	426	PF00364	Biotin_lipoyl	Biotin-requiring enzyme	8e-06
+OFV10471.1_17	18640	19917	1	426	PF16576	HlyD_D23	Barrel-sandwich domain of CusB or HlyD membrane-fusion	8.3e-06
+OFV10471.1_18	20001	20966	1	322	PF00535	Glycos_transf_2	Glycosyl transferase family 2	1.1e-37
+OFV10471.1_18	20001	20966	1	322	PF13641	Glyco_tranf_2_3	Glycosyltransferase like family 2	1.4e-16
+OFV10471.1_18	20001	20966	1	322	PF10111	Glyco_tranf_2_2	Glycosyltransferase like family 2	4.5e-11
+OFV10471.1_19	21384	21737	1	118	none	none	none	none
+OFV10471.1_20	21730	22371	1	214	PF01610	DDE_Tnp_ISL3	Transposase	3.6e-27
+OFV10471.1_21	23765	24877	1	371	PF01757	Acyl_transf_3	Acyltransferase family	3.2e-32
+OFV10471.1_22	24887	25399	-1	171	PF08327	AHSA1	Activator of Hsp90 ATPase homolog 1-like protein	1.2e-09
+OFV10471.1_23	25721	27280	1	520	PF00754	F5_F8_type_C	F5/8 type C domain	7.3e-15
+OFV10471.1_24	27474	27995	1	174	PF12867	DinB_2	DinB superfamily	8e-07
+OFV10471.1_25	28046	28501	-1	152	PF00583	Acetyltransf_1	Acetyltransferase (GNAT) family	3.3e-12
+OFV10471.1_25	28046	28501	-1	152	PF13673	Acetyltransf_10	Acetyltransferase (GNAT) domain	3.9e-11
+OFV10471.1_25	28046	28501	-1	152	PF13508	Acetyltransf_7	Acetyltransferase (GNAT) domain	9.7e-10
+OFV10471.1_26	28721	29815	1	365	PF02518	HATPase_c	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	1.9e-20
+OFV10471.1_26	28721	29815	1	365	PF08448	PAS_4	PAS fold	1.1e-09
+OFV10471.1_26	28721	29815	1	365	PF14501	HATPase_c_5	GHKL domain	1e-06
+OFV10471.1_27	29958	31271	1	438	PF02518	HATPase_c	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	1.5e-17
+OFV10471.1_27	29958	31271	1	438	PF00512	HisKA	His Kinase A (phospho-acceptor) domain	5.7e-06
+OFV10471.1_28	31400	33520	1	707	PF02518	HATPase_c	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	6.3e-26
+OFV10471.1_28	31400	33520	1	707	PF08447	PAS_3	PAS fold	4.2e-14
+OFV10471.1_28	31400	33520	1	707	PF08448	PAS_4	PAS fold	2.1e-13
+OFV10471.1_28	31400	33520	1	707	PF00512	HisKA	His Kinase A (phospho-acceptor) domain	3.6e-12
+OFV10471.1_28	31400	33520	1	707	PF01590	GAF	GAF domain	2.1e-11
+OFV10471.1_28	31400	33520	1	707	PF13185	GAF_2	GAF domain	6e-07
+OFV10471.1_29	33623	33952	-1	110	PF07411	DUF1508	Domain of unknown function (DUF1508)	5.8e-50
+SDH45420.1_1	2	250	-1	83	PF00075	RNase_H	RNase H	2.7e-22
+SDH45420.1_2	1211	1804	1	198	PF09357	RteC	RteC protein	1.1e-20
+SDH45420.1_3	2368	3192	-1	275	PF02485	Branch	Core-2/I-Branching enzyme	2.5e-24
+SDH45420.1_4	5133	7853	1	907	PF14905	OMP_b-brl_3	Outer membrane protein beta-barrel family	2.9e-12
+SDH45420.1_4	5133	7853	1	907	PF13620	CarboxypepD_reg	Carboxypeptidase regulatory-like domain	2.6e-08
+SDH45420.1_4	5133	7853	1	907	PF13715	CarbopepD_reg_2	CarboxypepD_reg-like domain	1.8e-07
+SDH45420.1_5	7866	8624	1	253	PF09697	Porph_ging	Protein of unknown function (Porph_ging)	1.3e-11
+SDH45420.1_6	8734	9678	-1	315	PF01370	Epimerase	NAD dependent epimerase/dehydratase family	5.9e-54
+SDH45420.1_6	8734	9678	-1	315	PF16363	GDP_Man_Dehyd	GDP-mannose 4,6 dehydratase	1.5e-52
+SDH45420.1_6	8734	9678	-1	315	PF01073	3Beta_HSD	3-beta hydroxysteroid dehydrogenase/isomerase family	3e-27
+SDH45420.1_6	8734	9678	-1	315	PF02719	Polysacc_synt_2	Polysaccharide biosynthesis protein	2.6e-14
+SDH45420.1_6	8734	9678	-1	315	PF07993	NAD_binding_4	Male sterility protein	4.1e-14
+SDH45420.1_6	8734	9678	-1	315	PF04321	RmlD_sub_bind	RmlD substrate binding domain	3.5e-12
+SDH45420.1_7	10150	11475	1	442	PF05139	Erythro_esteras	Erythromycin esterase	6.9e-42
+SDH45420.1_8	11477	12688	1	404	PF05147	LANC_like	Lanthionine synthetase C-like protein	4.8e-38
+SDH45420.1_9	12758	15841	1	1028	PF04738	Lant_dehydr_N	Lantibiotic dehydratase, N terminus	5.6e-136
+SDH45420.1_9	12758	15841	1	1028	PF14028	Lant_dehydr_C	Lantibiotic biosynthesis dehydratase C-term	8.4e-50
+SDH45420.1_10	15890	17614	1	575	PF02709	Glyco_transf_7C	N-terminal domain of galactosyltransferase	1.9e-10
+SDH45420.1_11	17601	18785	1	395	PF05147	LANC_like	Lanthionine synthetase C-like protein	4.5e-06
+SDH45420.1_12	18798	19991	1	398	none	none	none	none
+SDH45420.1_13	20001	20927	1	309	PF00535	Glycos_transf_2	Glycosyl transferase family 2	3e-33
+SDH45420.1_13	20001	20927	1	309	PF10111	Glyco_tranf_2_2	Glycosyltransferase like family 2	3.5e-15
+SDH45420.1_13	20001	20927	1	309	PF13641	Glyco_tranf_2_3	Glycosyltransferase like family 2	8.6e-11
+SDH45420.1_14	20987	23155	1	723	PF03412	Peptidase_C39	Peptidase C39 family	5e-33
+SDH45420.1_14	20987	23155	1	723	PF00005	ABC_tran	ABC transporter	2.7e-29
+SDH45420.1_14	20987	23155	1	723	PF00664	ABC_membrane	ABC transporter transmembrane region	5.2e-26
+SDH45420.1_14	20987	23155	1	723	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	6.8e-06
+SDH45420.1_15	23179	24459	1	427	PF13437	HlyD_3	HlyD family secretion protein	6.6e-13
+SDH45420.1_15	23179	24459	1	427	PF16576	HlyD_D23	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5.3e-08
+SDH45420.1_16	24638	24862	-1	75	none	none	none	none
+SDH45420.1_17	25083	25736	-1	218	PF04488	Gly_transf_sug	Glycosyltransferase sugar-binding region containing DXD motif	3.5e-08
+SDH45420.1_18	25902	26819	1	306	PF00296	Bac_luciferase	Luciferase-like monooxygenase	2.9e-16
+SDH45420.1_19	27003	27779	1	259	PF05050	Methyltransf_21	Methyltransferase FkbM domain	1.6e-18
+SDH45420.1_19	27003	27779	1	259	PF02475	Met_10	Met-10+ like-protein	2.7e-12
+SDH45420.1_20	28394	29488	-1	365	PF11051	Mannosyl_trans3	Mannosyltransferase putative	7e-47
+SDH45420.1_21	30215	30604	1	130	none	none	none	none
+SDH45420.1_22	30670	30933	1	88	none	none	none	none
+SDH45420.1_23	31002	32318	1	439	PF05593	RHS_repeat	RHS Repeat	5e-07
+SDH45420.1_24	32348	33151	1	268	PF12639	Colicin-DNase	DNase/tRNase domain of colicin-like bacteriocin	3.6e-09
+SDH45420.1_24	32348	33151	1	268	PF14414	WHH	A nuclease of the HNH/ENDO VII superfamily with conserved WHH	1e-07
+SDH45420.1_25	33168	33446	1	93	none	none	none	none
+SDH45420.1_26	33662	34000	1	113	none	none	none	none
+SDH45420.1_27	34158	34268	1	37	none	none	none	none
+SDH45420.1_28	34546	34638	1	31	none	none	none	none
+WP_070569063.1_1	1	246	1	82	none	none	none	none
+WP_070569063.1_2	275	1015	-1	247	PF04572	Gb3_synth	Alpha 1,4-glycosyltransferase conserved region	1.8e-07
+WP_070569063.1_2	275	1015	-1	247	PF04488	Gly_transf_sug	Glycosyltransferase sugar-binding region containing DXD motif	7.2e-07
+WP_070569063.1_3	1227	1523	1	99	none	none	none	none
+WP_070569063.1_4	1630	2718	1	363	PF13905	Thioredoxin_8	Thioredoxin-like	1.4e-13
+WP_070569063.1_4	1630	2718	1	363	PF00085	Thioredoxin	Thioredoxin	8.7e-08
+WP_070569063.1_4	1630	2718	1	363	PF14289	DUF4369	Domain of unknown function (DUF4369)	2.7e-06
+WP_070569063.1_5	2763	3401	1	213	PF01755	Glyco_transf_25	Glycosyltransferase family 25 (LPS biosynthesis protein)	8.8e-07
+WP_070569063.1_6	3407	3991	1	195	none	none	none	none
+WP_070569063.1_7	4250	4882	-1	211	PF04488	Gly_transf_sug	Glycosyltransferase sugar-binding region containing DXD motif	1.2e-09
+WP_070569063.1_8	5085	8111	-1	1009	PF11028	DUF2723	Protein of unknown function (DUF2723)	2.9e-71
+WP_070569063.1_9	8173	9267	-1	365	none	none	none	none
+WP_070569063.1_10	9274	10839	-1	522	PF02709	Glyco_transf_7C	N-terminal domain of galactosyltransferase	6e-07
+WP_070569063.1_11	10880	11827	-1	316	none	none	none	none
+WP_070569063.1_12	11929	12120	-1	64	none	none	none	none
+WP_070569063.1_13	12160	13338	-1	393	PF05147	LANC_like	Lanthionine synthetase C-like protein	7.3e-23
+WP_070569063.1_14	13442	16141	1	900	PF14028	Lant_dehydr_C	Lantibiotic biosynthesis dehydratase C-term	4.6e-28
+WP_070569063.1_14	13442	16141	1	900	PF04738	Lant_dehydr_N	Lantibiotic dehydratase, N terminus	9.9e-28
+WP_070569063.1_15	16450	18636	1	729	PF03412	Peptidase_C39	Peptidase C39 family	1.1e-36
+WP_070569063.1_15	16450	18636	1	729	PF00664	ABC_membrane	ABC transporter transmembrane region	3.7e-27
+WP_070569063.1_15	16450	18636	1	729	PF00005	ABC_tran	ABC transporter	4.3e-27
+WP_070569063.1_15	16450	18636	1	729	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	1.2e-07
+WP_070569063.1_16	18640	19917	1	426	PF13437	HlyD_3	HlyD family secretion protein	2.4e-11
+WP_070569063.1_16	18640	19917	1	426	PF00364	Biotin_lipoyl	Biotin-requiring enzyme	8e-06
+WP_070569063.1_16	18640	19917	1	426	PF16576	HlyD_D23	Barrel-sandwich domain of CusB or HlyD membrane-fusion	8.3e-06
+WP_070569063.1_17	20001	20966	1	322	PF00535	Glycos_transf_2	Glycosyl transferase family 2	1.1e-37
+WP_070569063.1_17	20001	20966	1	322	PF13641	Glyco_tranf_2_3	Glycosyltransferase like family 2	1.4e-16
+WP_070569063.1_17	20001	20966	1	322	PF10111	Glyco_tranf_2_2	Glycosyltransferase like family 2	4.5e-11
+WP_070569063.1_18	21474	21605	-1	44	none	none	none	none
+WP_070569063.1_19	21605	21817	-1	71	none	none	none	none
+WP_070569063.1_20	21807	22646	-1	280	PF08241	Methyltransf_11	Methyltransferase domain	5e-18
+WP_070569063.1_20	21807	22646	-1	280	PF13649	Methyltransf_25	Methyltransferase domain	2.8e-16
+WP_070569063.1_20	21807	22646	-1	280	PF13847	Methyltransf_31	Methyltransferase domain	8.8e-12
+WP_070569063.1_20	21807	22646	-1	280	PF13489	Methyltransf_23	Methyltransferase domain	3.4e-09
+WP_070569063.1_20	21807	22646	-1	280	PF08242	Methyltransf_12	Methyltransferase domain	2.4e-08
+WP_070569063.1_20	21807	22646	-1	280	PF05175	MTS	Methyltransferase small domain	9.5e-07
+WP_070569063.1_20	21807	22646	-1	280	PF05401	NodS	Nodulation protein S (NodS)	2.4e-06
+WP_070569063.1_21	23002	23778	1	259	none	none	none	none
+WP_070569063.1_22	23915	24466	1	184	PF00027	cNMP_binding	Cyclic nucleotide-binding domain	9.7e-16
+WP_070569063.1_23	24541	25359	1	273	PF00756	Esterase	Putative esterase	3.2e-27
+WP_070569063.1_24	25346	26218	1	291	PF00892	EamA	EamA-like transporter family	3.5e-23
+WP_070569063.1_25	26199	26624	-1	142	none	none	none	none
+WP_070569063.1_26	26995	28170	1	392	PF04773	FecR	FecR protein	4.1e-20
+WP_070569063.1_26	26995	28170	1	392	PF16344	FecR_C	FecR, C-terminal	9.5e-12
+WP_070569063.1_27	28355	31756	1	1134	PF07715	Plug	TonB-dependent Receptor Plug Domain	7.6e-22
+WP_070569063.1_27	28355	31756	1	1134	PF13715	CarbopepD_reg_2	CarboxypepD_reg-like domain	4e-16
+WP_070569063.1_27	28355	31756	1	1134	PF13620	CarboxypepD_reg	Carboxypeptidase regulatory-like domain	4.6e-09
+WP_070569063.1_27	28355	31756	1	1134	PF07660	STN	Secretin and TonB N terminus short domain	8.4e-06
+WP_070569063.1_28	31774	33429	1	552	PF07980	SusD_RagB	SusD family	3.8e-46
+WP_070569063.1_28	31774	33429	1	552	PF14322	SusD-like_3	Starch-binding associating with outer membrane	1.3e-20
+WP_070569063.1_29	33434	35008	1	525	PF00884	Sulfatase	Sulfatase	4.5e-55
+WP_070569063.1_29	33434	35008	1	525	PF01663	Phosphodiest	Type I phosphodiesterase / nucleotide pyrophosphatase	8.7e-07
+WP_070569063.1_30	35005	36495	1	497	PF00884	Sulfatase	Sulfatase	9.5e-54
+WP_070569063.1_30	35005	36495	1	497	PF16347	SGSH_C	N-sulphoglucosamine sulphohydrolase, C-terminal	6.2e-14
+WP_070569063.1_31	36695	37288	1	198	PF04542	Sigma70_r2	Sigma-70 region 2	1.1e-11
+WP_070569063.1_31	36695	37288	1	198	PF08281	Sigma70_r4_2	Sigma-70, region 4	1.1e-11
+WP_070569063.1_32	38040	38630	1	197	PF00677	Lum_binding	Lumazine binding domain	7.9e-47
+WP_070569063.1_33	38719	40518	-1	600	PF00654	Voltage_CLC	Voltage gated chloride channel	1.5e-78
+WP_070569063.1_34	40525	40965	-1	147	PF03466	LysR_substrate	LysR substrate binding domain	2.1e-11
+ATP55373.1_1	3	413	1	137	none	none	none	none
+ATP55373.1_2	845	1168	-1	108	PF01035	DNA_binding_1	6-O-methylguanine DNA methyltransferase, DNA binding domain	4.4e-21
+ATP55373.1_3	1346	1990	1	215	PF11188	DUF2975	Protein of unknown function (DUF2975)	7e-07
+ATP55373.1_4	1996	2196	1	67	PF13443	HTH_26	Cro/C1-type HTH DNA-binding domain	4.7e-21
+ATP55373.1_5	2779	3675	-1	299	PF02485	Branch	Core-2/I-Branching enzyme	6.2e-30
+ATP55373.1_6	4503	4733	1	77	none	none	none	none
+ATP55373.1_7	5422	5775	1	118	PF01381	HTH_3	Helix-turn-helix	2.2e-10
+ATP55373.1_7	5422	5775	1	118	PF12844	HTH_19	Helix-turn-helix domain	1.7e-07
+ATP55373.1_8	5998	6342	1	115	none	none	none	none
+ATP55373.1_9	6443	8617	1	725	PF03412	Peptidase_C39	Peptidase C39 family	2.7e-34
+ATP55373.1_9	6443	8617	1	725	PF00005	ABC_tran	ABC transporter	2.7e-24
+ATP55373.1_9	6443	8617	1	725	PF00664	ABC_membrane	ABC transporter transmembrane region	4.3e-24
+ATP55373.1_9	6443	8617	1	725	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	2.4e-07
+ATP55373.1_10	8631	9929	1	433	PF13437	HlyD_3	HlyD family secretion protein	2.6e-07
+ATP55373.1_10	8631	9929	1	433	PF13533	Biotin_lipoyl_2	Biotin-lipoyl like	2.1e-06
+ATP55373.1_11	9929	10873	1	315	none	none	none	none
+ATP55373.1_12	10857	12098	1	414	PF00534	Glycos_transf_1	Glycosyl transferases group 1	3.4e-21
+ATP55373.1_12	10857	12098	1	414	PF13692	Glyco_trans_1_4	Glycosyl transferases group 1	8.5e-17
+ATP55373.1_12	10857	12098	1	414	PF13439	Glyco_transf_4	Glycosyltransferase Family 4	1e-09
+ATP55373.1_13	12095	13309	1	405	PF05147	LANC_like	Lanthionine synthetase C-like protein	5.5e-41
+ATP55373.1_14	13333	16425	1	1031	PF04738	Lant_dehydr_N	Lantibiotic dehydratase, N terminus	5e-125
+ATP55373.1_14	13333	16425	1	1031	PF14028	Lant_dehydr_C	Lantibiotic biosynthesis dehydratase C-term	6e-54
+ATP55373.1_15	16422	18611	1	730	PF03572	Peptidase_S41	Peptidase family S41	3.3e-10
+ATP55373.1_16	18623	19966	1	448	PF02321	OEP	Outer membrane efflux protein	2.2e-34
+ATP55373.1_17	20001	20852	1	284	PF00535	Glycos_transf_2	Glycosyl transferase family 2	3.3e-24
+ATP55373.1_17	20001	20852	1	284	PF10111	Glyco_tranf_2_2	Glycosyltransferase like family 2	6.9e-09
+ATP55373.1_17	20001	20852	1	284	PF13641	Glyco_tranf_2_3	Glycosyltransferase like family 2	2.3e-08
+ATP55373.1_18	20852	20968	1	39	none	none	none	none
+ATP55373.1_19	21075	21818	1	248	none	none	none	none
+ATP55373.1_20	21884	22441	1	186	PF04488	Gly_transf_sug	Glycosyltransferase sugar-binding region containing DXD motif	1.3e-12
+ATP55373.1_21	23154	24026	-1	291	PF00665	rve	Integrase core domain	1.4e-11
+ATP55373.1_22	24035	24337	-1	101	none	none	none	none
+ATP55373.1_23	24432	24644	1	71	none	none	none	none
+ATP55373.1_24	24654	25919	1	422	none	none	none	none
+ATP55373.1_25	26252	26941	-1	230	PF00753	Lactamase_B	Metallo-beta-lactamase superfamily	1.6e-07
+ATP55373.1_26	27940	28146	1	69	none	none	none	none
+ATP55373.1_27	28749	29951	-1	401	PF00155	Aminotran_1_2	Aminotransferase class I and II	7.5e-52
+ATP55373.1_28	30016	30405	-1	130	PF07610	DUF1573	Protein of unknown function (DUF1573)	3.7e-35
+ATP55373.1_28	30016	30405	-1	130	PF15780	ASH	Abnormal spindle-like microcephaly-assoc'd, ASPM-SPD-2-Hydin	8e-08
+ATP55373.1_29	30537	32960	1	808	PF00676	E1_dh	Dehydrogenase E1 component	7.8e-28
+ATP55373.1_29	30537	32960	1	808	PF02780	Transketolase_C	Transketolase, C-terminal domain	5.5e-26
+ATP55373.1_29	30537	32960	1	808	PF02779	Transket_pyr	Transketolase, pyrimidine binding domain	1.6e-17
+ATP55373.1_29	30537	32960	1	808	PF17147	PFOR_II	Pyruvate:ferredoxin oxidoreductase core domain II	6.6e-06
+ATP55373.1_30	33091	34182	-1	364	PF01264	Chorismate_synt	Chorismate synthase	1.8e-144
+ATP55373.1_31	34207	35460	-1	418	PF00275	EPSP_synthase	EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase)	2.3e-80
+ATP55373.1_32	35463	36602	-1	380	PF00793	DAHP_synth_1	DAHP synthetase I family	2.7e-34
+ATP55373.1_32	35463	36602	-1	380	PF01817	CM_2	Chorismate mutase type II	8.3e-18
+ATP55373.1_33	36658	37491	-1	278	PF00800	PDT	Prephenate dehydratase	1.2e-54
+ATP55373.1_34	37789	38868	-1	360	PF01761	DHQ_synthase	3-dehydroquinate synthase	7.7e-92
+ATP55373.1_34	37789	38868	-1	360	PF13685	Fe-ADH_2	Iron-containing alcohol dehydrogenase	1.8e-13
+ATP55373.1_35	38868	39074	-1	69	PF13275	S4_2	S4 domain	2.9e-23
+ATP55373.1_36	39197	40381	1	395	PF01619	Pro_dh	Proline dehydrogenase	5.5e-78
+ATP55373.1_37	40435	40755	-1	107	PF06127	Mpo1-like	2-hydroxy-palmitic acid dioxygenase Mpo1-like	2.4e-37
+ATP55373.1_38	40769	40852	-1	28	none	none	none	none
+WP_099437326.1_1	3	413	1	137	none	none	none	none
+WP_099437326.1_2	845	1168	-1	108	PF01035	DNA_binding_1	6-O-methylguanine DNA methyltransferase, DNA binding domain	4.4e-21
+WP_099437326.1_3	1346	1990	1	215	PF11188	DUF2975	Protein of unknown function (DUF2975)	7e-07
+WP_099437326.1_4	1996	2196	1	67	PF13443	HTH_26	Cro/C1-type HTH DNA-binding domain	4.7e-21
+WP_099437326.1_5	2779	3675	-1	299	PF02485	Branch	Core-2/I-Branching enzyme	6.2e-30
+WP_099437326.1_6	4503	4733	1	77	none	none	none	none
+WP_099437326.1_7	5422	5775	1	118	PF01381	HTH_3	Helix-turn-helix	2.2e-10
+WP_099437326.1_7	5422	5775	1	118	PF12844	HTH_19	Helix-turn-helix domain	1.7e-07
+WP_099437326.1_8	5998	6342	1	115	none	none	none	none
+WP_099437326.1_9	6443	8617	1	725	PF03412	Peptidase_C39	Peptidase C39 family	2.7e-34
+WP_099437326.1_9	6443	8617	1	725	PF00005	ABC_tran	ABC transporter	2.7e-24
+WP_099437326.1_9	6443	8617	1	725	PF00664	ABC_membrane	ABC transporter transmembrane region	4.3e-24
+WP_099437326.1_9	6443	8617	1	725	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	2.4e-07
+WP_099437326.1_10	8631	9929	1	433	PF13437	HlyD_3	HlyD family secretion protein	2.6e-07
+WP_099437326.1_10	8631	9929	1	433	PF13533	Biotin_lipoyl_2	Biotin-lipoyl like	2.1e-06
+WP_099437326.1_11	9929	10873	1	315	none	none	none	none
+WP_099437326.1_12	10857	12098	1	414	PF00534	Glycos_transf_1	Glycosyl transferases group 1	3.4e-21
+WP_099437326.1_12	10857	12098	1	414	PF13692	Glyco_trans_1_4	Glycosyl transferases group 1	8.5e-17
+WP_099437326.1_12	10857	12098	1	414	PF13439	Glyco_transf_4	Glycosyltransferase Family 4	1e-09
+WP_099437326.1_13	12095	13309	1	405	PF05147	LANC_like	Lanthionine synthetase C-like protein	5.5e-41
+WP_099437326.1_14	13333	16425	1	1031	PF04738	Lant_dehydr_N	Lantibiotic dehydratase, N terminus	5e-125
+WP_099437326.1_14	13333	16425	1	1031	PF14028	Lant_dehydr_C	Lantibiotic biosynthesis dehydratase C-term	6e-54
+WP_099437326.1_15	16422	18611	1	730	PF03572	Peptidase_S41	Peptidase family S41	3.3e-10
+WP_099437326.1_16	18623	19966	1	448	PF02321	OEP	Outer membrane efflux protein	2.2e-34
+WP_099437326.1_17	20001	20852	1	284	PF00535	Glycos_transf_2	Glycosyl transferase family 2	3.3e-24
+WP_099437326.1_17	20001	20852	1	284	PF10111	Glyco_tranf_2_2	Glycosyltransferase like family 2	6.9e-09
+WP_099437326.1_17	20001	20852	1	284	PF13641	Glyco_tranf_2_3	Glycosyltransferase like family 2	2.3e-08
+WP_099437326.1_18	20852	20968	1	39	none	none	none	none
+WP_099437326.1_19	21075	21818	1	248	none	none	none	none
+WP_099437326.1_20	21884	22441	1	186	PF04488	Gly_transf_sug	Glycosyltransferase sugar-binding region containing DXD motif	1.3e-12
+WP_099437326.1_21	23154	24026	-1	291	PF00665	rve	Integrase core domain	1.4e-11
+WP_099437326.1_22	24035	24337	-1	101	none	none	none	none
+WP_099437326.1_23	24432	24644	1	71	none	none	none	none
+WP_099437326.1_24	24654	25919	1	422	none	none	none	none
+WP_099437326.1_25	26252	26941	-1	230	PF00753	Lactamase_B	Metallo-beta-lactamase superfamily	1.6e-07
+WP_099437326.1_26	27940	28146	1	69	none	none	none	none
+WP_099437326.1_27	28749	29951	-1	401	PF00155	Aminotran_1_2	Aminotransferase class I and II	7.5e-52
+WP_099437326.1_28	30016	30405	-1	130	PF07610	DUF1573	Protein of unknown function (DUF1573)	3.7e-35
+WP_099437326.1_28	30016	30405	-1	130	PF15780	ASH	Abnormal spindle-like microcephaly-assoc'd, ASPM-SPD-2-Hydin	8e-08
+WP_099437326.1_29	30537	32960	1	808	PF00676	E1_dh	Dehydrogenase E1 component	7.8e-28
+WP_099437326.1_29	30537	32960	1	808	PF02780	Transketolase_C	Transketolase, C-terminal domain	5.5e-26
+WP_099437326.1_29	30537	32960	1	808	PF02779	Transket_pyr	Transketolase, pyrimidine binding domain	1.6e-17
+WP_099437326.1_29	30537	32960	1	808	PF17147	PFOR_II	Pyruvate:ferredoxin oxidoreductase core domain II	6.6e-06
+WP_099437326.1_30	33091	34182	-1	364	PF01264	Chorismate_synt	Chorismate synthase	1.8e-144
+WP_099437326.1_31	34207	35460	-1	418	PF00275	EPSP_synthase	EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase)	2.3e-80
+WP_099437326.1_32	35463	36602	-1	380	PF00793	DAHP_synth_1	DAHP synthetase I family	2.7e-34
+WP_099437326.1_32	35463	36602	-1	380	PF01817	CM_2	Chorismate mutase type II	8.3e-18
+WP_099437326.1_33	36658	37491	-1	278	PF00800	PDT	Prephenate dehydratase	1.2e-54
+WP_099437326.1_34	37789	38868	-1	360	PF01761	DHQ_synthase	3-dehydroquinate synthase	7.7e-92
+WP_099437326.1_34	37789	38868	-1	360	PF13685	Fe-ADH_2	Iron-containing alcohol dehydrogenase	1.8e-13
+WP_099437326.1_35	38868	39074	-1	69	PF13275	S4_2	S4 domain	2.9e-23
+WP_099437326.1_36	39197	40381	1	395	PF01619	Pro_dh	Proline dehydrogenase	5.5e-78
+WP_099437326.1_37	40435	40755	-1	107	PF06127	Mpo1-like	2-hydroxy-palmitic acid dioxygenase Mpo1-like	2.4e-37
+WP_099437326.1_38	40769	40852	-1	28	none	none	none	none
+PST83892.1_1	284	541	-1	86	PF11625	DUF3253	Protein of unknown function (DUF3253)	1.3e-27
+PST83892.1_2	865	2283	1	473	PF00144	Beta-lactamase	Beta-lactamase	1.2e-54
+PST83892.1_3	3197	3706	1	170	PF04488	Gly_transf_sug	Glycosyltransferase sugar-binding region containing DXD motif	1.4e-07
+PST83892.1_4	3711	4832	1	374	PF11051	Mannosyl_trans3	Mannosyltransferase putative	4.7e-48
+PST83892.1_5	4822	5763	-1	314	PF05050	Methyltransf_21	Methyltransferase FkbM domain	2.2e-13
+PST83892.1_5	4822	5763	-1	314	PF02475	Met_10	Met-10+ like-protein	2.2e-06
+PST83892.1_6	5920	6090	1	57	none	none	none	none
+PST83892.1_7	6391	6744	1	118	none	none	none	none
+PST83892.1_8	6931	8976	1	682	PF00005	ABC_tran	ABC transporter	7.3e-26
+PST83892.1_8	6931	8976	1	682	PF00664	ABC_membrane	ABC transporter transmembrane region	9.6e-26
+PST83892.1_8	6931	8976	1	682	PF03412	Peptidase_C39	Peptidase C39 family	1.3e-14
+PST83892.1_8	6931	8976	1	682	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	8.5e-07
+PST83892.1_9	8973	10283	1	437	PF13437	HlyD_3	HlyD family secretion protein	2.4e-07
+PST83892.1_10	10285	11067	1	261	none	none	none	none
+PST83892.1_11	11051	12268	1	406	PF00534	Glycos_transf_1	Glycosyl transferases group 1	6.5e-22
+PST83892.1_11	11051	12268	1	406	PF13692	Glyco_trans_1_4	Glycosyl transferases group 1	9.9e-18
+PST83892.1_11	11051	12268	1	406	PF20706	GT4-conflict	Family 4 Glycosyltransferase in conflict systems	6.2e-06
+PST83892.1_12	12268	13476	1	403	PF05147	LANC_like	Lanthionine synthetase C-like protein	3.6e-29
+PST83892.1_13	13531	16551	1	1007	PF04738	Lant_dehydr_N	Lantibiotic dehydratase, N terminus	1.3e-128
+PST83892.1_13	13531	16551	1	1007	PF14028	Lant_dehydr_C	Lantibiotic biosynthesis dehydratase C-term	1e-52
+PST83892.1_14	16548	18656	1	703	PF03572	Peptidase_S41	Peptidase family S41	2.5e-11
+PST83892.1_15	18631	20001	1	457	PF02321	OEP	Outer membrane efflux protein	1.4e-29
+PST83892.1_16	20001	20924	1	308	PF00535	Glycos_transf_2	Glycosyl transferase family 2	4.8e-31
+PST83892.1_16	20001	20924	1	308	PF13641	Glyco_tranf_2_3	Glycosyltransferase like family 2	1.1e-15
+PST83892.1_16	20001	20924	1	308	PF10111	Glyco_tranf_2_2	Glycosyltransferase like family 2	4.2e-11
+PST83892.1_17	20913	21560	-1	216	PF04488	Gly_transf_sug	Glycosyltransferase sugar-binding region containing DXD motif	5.3e-09
+PST83892.1_18	21810	22538	-1	243	PF01844	HNH	HNH endonuclease	4.5e-06
+PST83892.1_19	23140	23751	-1	204	PF14267	DUF4357	Domain of unknown function (DUF4357)	2.8e-16
+PST83892.1_20	24274	24651	1	126	PF00872	Transposase_mut	Transposase, Mutator family	1.6e-08
+PST83892.1_21	25406	25603	1	66	none	none	none	none
+PST83892.1_22	25575	26456	1	294	PF00872	Transposase_mut	Transposase, Mutator family	3e-81
+PST83892.1_23	26588	27187	-1	200	none	none	none	none
+PST83892.1_24	27147	28619	-1	491	none	none	none	none
+PST83892.1_25	28726	28905	1	60	none	none	none	none
+PST83892.1_26	28922	29173	-1	84	PF17293	Arm-DNA-bind_5	Arm DNA-binding domain	4.6e-10
+PST83892.1_27	29909	30220	1	104	PF01527	HTH_Tnp_1	Transposase	5.9e-24
+PST83892.1_27	29909	30220	1	104	PF13384	HTH_23	Homeodomain-like domain	2.9e-07
+PST83892.1_28	30193	31026	1	278	PF13683	rve_3	Integrase core domain	1.4e-27
+PST83892.1_28	30193	31026	1	278	PF00665	rve	Integrase core domain	2.6e-24
+PST83892.1_28	30193	31026	1	278	PF13276	HTH_21	HTH-like domain	2.5e-11
+PST83892.1_29	31403	31711	1	103	none	none	none	none
+PST83892.1_30	31743	32504	1	254	none	none	none	none
+PST83892.1_31	32655	35309	1	885	none	none	none	none
+PST83892.1_32	35558	36631	-1	358	PF03462	PCRF	PCRF domain	1.5e-77
+PST83892.1_32	35558	36631	-1	358	PF00472	RF-1	RF-1 domain	9.1e-39
+PST83892.1_33	36833	37633	-1	267	PF00149	Metallophos	Calcineurin-like phosphoesterase	3.4e-09
+PST83892.1_33	36833	37633	-1	267	PF12850	Metallophos_2	Calcineurin-like phosphoesterase superfamily domain	3e-06
+PST83892.1_34	37842	37943	-1	34	none	none	none	none
+PST83892.1_35	37981	38991	1	337	PF07992	Pyr_redox_2	Pyridine nucleotide-disulphide oxidoreductase	2.3e-25
+PST83892.1_35	37981	38991	1	337	PF13738	Pyr_redox_3	Pyridine nucleotide-disulphide oxidoreductase	7.1e-21
+PST83892.1_35	37981	38991	1	337	PF00070	Pyr_redox	Pyridine nucleotide-disulphide oxidoreductase	1.8e-11
+PST83892.1_35	37981	38991	1	337	PF03486	HI0933_like	HI0933-like protein	3.7e-08
+PST83892.1_36	39068	39397	1	110	PF00111	Fer2	2Fe-2S iron-sulfur cluster binding domain	6e-08
+PST83892.1_37	39406	40923	-1	506	PF03572	Peptidase_S41	Peptidase family S41	6.5e-52
+PST83892.1_37	39406	40923	-1	506	PF13180	PDZ_2	PDZ domain	2.1e-09
+PST83892.1_37	39406	40923	-1	506	PF17820	PDZ_6	PDZ domain	2.8e-09
+PST83892.1_37	39406	40923	-1	506	PF00595	PDZ	PDZ domain	1.1e-06
+WP_107213801.1_1	284	541	-1	86	PF11625	DUF3253	Protein of unknown function (DUF3253)	1.3e-27
+WP_107213801.1_2	865	2283	1	473	PF00144	Beta-lactamase	Beta-lactamase	1.2e-54
+WP_107213801.1_3	3197	3706	1	170	PF04488	Gly_transf_sug	Glycosyltransferase sugar-binding region containing DXD motif	1.4e-07
+WP_107213801.1_4	3711	4832	1	374	PF11051	Mannosyl_trans3	Mannosyltransferase putative	4.7e-48
+WP_107213801.1_5	4822	5763	-1	314	PF05050	Methyltransf_21	Methyltransferase FkbM domain	2.2e-13
+WP_107213801.1_5	4822	5763	-1	314	PF02475	Met_10	Met-10+ like-protein	2.2e-06
+WP_107213801.1_6	5920	6090	1	57	none	none	none	none
+WP_107213801.1_7	6391	6744	1	118	none	none	none	none
+WP_107213801.1_8	6931	8976	1	682	PF00005	ABC_tran	ABC transporter	7.3e-26
+WP_107213801.1_8	6931	8976	1	682	PF00664	ABC_membrane	ABC transporter transmembrane region	9.6e-26
+WP_107213801.1_8	6931	8976	1	682	PF03412	Peptidase_C39	Peptidase C39 family	1.3e-14
+WP_107213801.1_8	6931	8976	1	682	PF02463	SMC_N	RecF/RecN/SMC N terminal domain	8.5e-07
+WP_107213801.1_9	8973	10283	1	437	PF13437	HlyD_3	HlyD family secretion protein	2.4e-07
+WP_107213801.1_10	10285	11067	1	261	none	none	none	none
+WP_107213801.1_11	11051	12268	1	406	PF00534	Glycos_transf_1	Glycosyl transferases group 1	6.5e-22
+WP_107213801.1_11	11051	12268	1	406	PF13692	Glyco_trans_1_4	Glycosyl transferases group 1	9.9e-18
+WP_107213801.1_11	11051	12268	1	406	PF20706	GT4-conflict	Family 4 Glycosyltransferase in conflict systems	6.2e-06
+WP_107213801.1_12	12268	13476	1	403	PF05147	LANC_like	Lanthionine synthetase C-like protein	3.6e-29
+WP_107213801.1_13	13531	16551	1	1007	PF04738	Lant_dehydr_N	Lantibiotic dehydratase, N terminus	1.3e-128
+WP_107213801.1_13	13531	16551	1	1007	PF14028	Lant_dehydr_C	Lantibiotic biosynthesis dehydratase C-term	1e-52
+WP_107213801.1_14	16548	18656	1	703	PF03572	Peptidase_S41	Peptidase family S41	2.5e-11
+WP_107213801.1_15	18631	20001	1	457	PF02321	OEP	Outer membrane efflux protein	1.4e-29
+WP_107213801.1_16	20001	20924	1	308	PF00535	Glycos_transf_2	Glycosyl transferase family 2	4.8e-31
+WP_107213801.1_16	20001	20924	1	308	PF13641	Glyco_tranf_2_3	Glycosyltransferase like family 2	1.1e-15
+WP_107213801.1_16	20001	20924	1	308	PF10111	Glyco_tranf_2_2	Glycosyltransferase like family 2	4.2e-11
+WP_107213801.1_17	20913	21560	-1	216	PF04488	Gly_transf_sug	Glycosyltransferase sugar-binding region containing DXD motif	5.3e-09
+WP_107213801.1_18	21810	22538	-1	243	PF01844	HNH	HNH endonuclease	4.5e-06
+WP_107213801.1_19	23140	23751	-1	204	PF14267	DUF4357	Domain of unknown function (DUF4357)	2.8e-16
+WP_107213801.1_20	24274	24651	1	126	PF00872	Transposase_mut	Transposase, Mutator family	1.6e-08
+WP_107213801.1_21	25406	25603	1	66	none	none	none	none
+WP_107213801.1_22	25575	26456	1	294	PF00872	Transposase_mut	Transposase, Mutator family	3e-81
+WP_107213801.1_23	26588	27187	-1	200	none	none	none	none
+WP_107213801.1_24	27147	28619	-1	491	none	none	none	none
+WP_107213801.1_25	28726	28905	1	60	none	none	none	none
+WP_107213801.1_26	28922	29173	-1	84	PF17293	Arm-DNA-bind_5	Arm DNA-binding domain	4.6e-10
+WP_107213801.1_27	29909	30220	1	104	PF01527	HTH_Tnp_1	Transposase	5.9e-24
+WP_107213801.1_27	29909	30220	1	104	PF13384	HTH_23	Homeodomain-like domain	2.9e-07
+WP_107213801.1_28	30193	31026	1	278	PF13683	rve_3	Integrase core domain	1.4e-27
+WP_107213801.1_28	30193	31026	1	278	PF00665	rve	Integrase core domain	2.6e-24
+WP_107213801.1_28	30193	31026	1	278	PF13276	HTH_21	HTH-like domain	2.5e-11
+WP_107213801.1_29	31403	31711	1	103	none	none	none	none
+WP_107213801.1_30	31743	32504	1	254	none	none	none	none
+WP_107213801.1_31	32655	35309	1	885	none	none	none	none
+WP_107213801.1_32	35558	36631	-1	358	PF03462	PCRF	PCRF domain	1.5e-77
+WP_107213801.1_32	35558	36631	-1	358	PF00472	RF-1	RF-1 domain	9.1e-39
+WP_107213801.1_33	36833	37633	-1	267	PF00149	Metallophos	Calcineurin-like phosphoesterase	3.4e-09
+WP_107213801.1_33	36833	37633	-1	267	PF12850	Metallophos_2	Calcineurin-like phosphoesterase superfamily domain	3e-06
+WP_107213801.1_34	37842	37943	-1	34	none	none	none	none
+WP_107213801.1_35	37981	38991	1	337	PF07992	Pyr_redox_2	Pyridine nucleotide-disulphide oxidoreductase	2.3e-25
+WP_107213801.1_35	37981	38991	1	337	PF13738	Pyr_redox_3	Pyridine nucleotide-disulphide oxidoreductase	7.1e-21
+WP_107213801.1_35	37981	38991	1	337	PF00070	Pyr_redox	Pyridine nucleotide-disulphide oxidoreductase	1.8e-11
+WP_107213801.1_35	37981	38991	1	337	PF03486	HI0933_like	HI0933-like protein	3.7e-08
+WP_107213801.1_36	39068	39397	1	110	PF00111	Fer2	2Fe-2S iron-sulfur cluster binding domain	6e-08
+WP_107213801.1_37	39406	40923	-1	506	PF03572	Peptidase_S41	Peptidase family S41	6.5e-52
+WP_107213801.1_37	39406	40923	-1	506	PF13180	PDZ_2	PDZ domain	2.1e-09
+WP_107213801.1_37	39406	40923	-1	506	PF17820	PDZ_6	PDZ domain	2.8e-09
+WP_107213801.1_37	39406	40923	-1	506	PF00595	PDZ	PDZ domain	1.1e-06

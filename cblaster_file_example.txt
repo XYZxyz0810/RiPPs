@@ -1,0 +1,7 @@
+Organism                                                 Scaffold              Start     End       Score  LxmK  LxmY  LxmX  LxmD
+Streptomyces sp. NPDC019990                              NZ_JBEYAJ010000004.1  69230     89431     11.12  2     1     2     2   
+Streptomyces rochei Sal35                                KP823601.1            5390      9320      6.25   1     1     1     1   
+Streptomyces rochei NPDC057785                           NZ_JBHVKV010000007.1  13820     17750     6.25   1     1     1     1   
+Streptomyces sp. KAI 90                                  NZ_JAANNZ010000009.1  170233    174163    6.25   1     1     1     1   
+Streptomyces sp. RM99                                    NZ_JAGPYI010000017.1  41705     45635     6.25   1     1     1     1   
+Streptomyces rochei MTOC-St3                             NZ_JBIENY010000216.1  131521    135451    6.25   1     1     1     1   
