@@ -17,8 +17,8 @@ def run_prodigal(input_fasta, output_dir):
     """
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    prodigal_faa = os.path.join(output_dir, f"Sequence.faa")
-    prodigal_gbk = os.path.join(output_dir, f"Genebank.gbk")
+    prodigal_faa = os.path.join(output_dir, f"Temp_sequence.faa")
+    prodigal_gbk = os.path.join(output_dir, f"Temp_genebank.gbk")
 
     # 运行 Prodigal
     prodigal_cmd = [

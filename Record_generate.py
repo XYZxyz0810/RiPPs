@@ -2,7 +2,7 @@ from collections import defaultdict
 import os
 import logging
 from Bio import SeqIO
-
+import pandas as pd
 
 def process_prodigal_faa_output(faa_path, output_dir, pre_min, pre_max):
     """
@@ -17,8 +17,8 @@ def process_prodigal_faa_output(faa_path, output_dir, pre_min, pre_max):
     :param pre_max: 过滤 ORF 的最大长度
     :return: 生成的 output_file 和 filtered_output_file 路径
     """
-    CDS_file = os.path.join(output_dir, f"CDS_info.txt")
-    peptide_file = os.path.join(output_dir, f"Peptide_info.txt")
+    CDS_file = os.path.join(output_dir, f"Temp_CDS_info.txt")
+    peptide_file = os.path.join(output_dir, f"Temp_Peptide_info.txt")
 
     total_sequences = 0
     filtered_count = 0
@@ -75,7 +75,7 @@ def comb_CDS_and_hmmscan_files(out_dir, CDS_file, parsed_hmmscan_results):
     :param hmmscan_file: Hmmscan 结果文件路径
     """
     # 设置文件路径
-    CDS_prediction_file = os.path.join(out_dir, "Combined_info.txt")
+    CDS_prediction_file = os.path.join(out_dir, "Temp_combined_info.txt")
 
     # 建立 hmmscan_results 字典 (以 accession 为键，值为匹配的所有结果)
     hmmscan_dict = {}
@@ -158,7 +158,7 @@ def generate_cluster_prediction_tables(out_dir, CDS_prediction_file):
                 evalue = fields[8]
 
                 # 提取 accession 中 _ 前的内容作为分组依据
-                prefix = accession.split("_")[0]
+                prefix = "_".join(accession.split("_")[:-1])
 
                 # 检查是否是该 accession 的首次出现
                 if accession not in seen_accessions:
@@ -171,22 +171,27 @@ def generate_cluster_prediction_tables(out_dir, CDS_prediction_file):
                         ["", "", "", "", "", pfam_accession, hit_name, hit_description, evalue]
                     )
 
-    # 为每个 prefix 生成一个对应的文件并返回文件路径
-    Cluster_prediction_table = os.path.join(out_dir, "Combined_table.txt")
-    with open(Cluster_prediction_table, "w") as out:
-        for prefix, data in grouped_data.items():
-            # 写入分隔线和表头
-            out.write("\n" + "=" * 50 + f"\nTable for prefix: {prefix}\n" + "=" * 50 + "\n")
-            out.write("accession\tstart\tend\tdirection\tlength\tPfam/Hmm\tname\tdescription\tE-value\n")
+    # 准备输出 Excel 文件
+    output_excel = os.path.join(out_dir, "Final_BGC_table.xlsx")
 
-            # 写入数据
-            for row in data:
-                out.write("\t".join(row) + "\n")
+    # 整合所有数据，加上 prefix 列用于标识来源
+    all_data = []
+    for prefix, rows in grouped_data.items():
+        for row in rows:
+            all_data.append([prefix] + row)
 
-        print(f"Grouped results have been saved to {Cluster_prediction_table}")
+    # 创建 DataFrame，新增一列 prefix
+    df_all = pd.DataFrame(all_data, columns=[
+        "prefix", "accession", "start", "end", "direction", "length",
+        "Pfam/Hmm", "name", "description", "E-value"
+    ])
 
-    # 返回文件路径
-    return Cluster_prediction_table
+    # 保存为单个 sheet 的 Excel 文件
+    with pd.ExcelWriter(output_excel, engine="openpyxl") as writer:
+        df_all.to_excel(writer, sheet_name="All_BGCs", index=False)
+
+    print(f"已保存 Excel 文件：{output_excel}")
+    return output_excel
 
 def generate_precursor_fasta(out_dir, peptide_file):
     """
@@ -224,7 +229,7 @@ def generate_precursor_fasta(out_dir, peptide_file):
                 }
 
     # 设置输出文件路径
-    peptide_fasta_file = os.path.join(out_dir, "Peptide_file.txt")
+    peptide_fasta_file = os.path.join(out_dir, "Final_peptide_candidate.txt")
 
     # 根据 accession 为索引的顺序将数据写入输出文件
     with open(peptide_fasta_file, "w") as out:

@@ -11,7 +11,7 @@ import concurrent.futures
 from Bio import SeqIO, AlignIO
 from Bio.Align.Applications import MafftCommandline
 from networkx.algorithms.components.connected import connected_components
-
+from concurrent.futures import ThreadPoolExecutor  # 替换 ProcessPoolExecutor
 
 def run_mmseqs2(peptide_file, out_dir):
     """
@@ -33,7 +33,7 @@ def run_mmseqs2(peptide_file, out_dir):
     # 构建 mmseqs2 命令
     mmseqs_cmd = [
         "mmseqs", "easy-cluster", peptide_file, cluster_res, tmp_dir,
-        "--min-seq-id", "0.3", "-c", "0.6", "--cov-mode", "1"
+        "--min-seq-id", "0.4", "-c", "0.8", "--cov-mode", "1"
     ]
     logging.info(f"Running MMseqs2 on {peptide_file}...")
     subprocess.run(mmseqs_cmd, check=True)
@@ -185,7 +185,7 @@ def makelogo(fasta_files, out_dir):
                                figsize=(25, 2),
                                stack_order='big_on_top',
                                color_scheme='NajafabadiEtAl2017',
-                               fade_probabilities=True,
+                               fade_probabilities=False,
                                baseline_width=1.5,
                                show_spines=False)
 

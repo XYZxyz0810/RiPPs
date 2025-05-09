@@ -17,7 +17,7 @@ def run_hmmscan(faa_path, hmm_db_path, output_dir):
         os.makedirs(output_dir)
 
     # 设置 hmmscan 输出文件路径
-    hmmscan_output = os.path.join(output_dir, "hmmscan_results.txt")
+    hmmscan_output = os.path.join(output_dir, "Temp_hmmscan_results.txt")
 
     # 运行 hmmscan
     hmmscan_cmd = [
@@ -49,7 +49,7 @@ def process_hmmscan_output(hmmscan_output, output_dir):
         return
 
     # 解析并保存文件路径
-    parsed_hmmscan_results = os.path.join(output_dir, "hmmscan_info.txt")
+    parsed_hmmscan_results = os.path.join(output_dir, "Temp_hmmscan_info.txt")
 
     with open(parsed_hmmscan_results, "w") as out_f:
         out_f.write("accession\tPfam/Hmm\tname\tdescription\tE-value\n")
